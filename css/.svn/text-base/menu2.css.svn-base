@@ -1,0 +1,128 @@
+DIV#btn-store {
+    float:left;
+    color:#F3F3F3;
+    width:247.5px;
+    height:88px;
+    border:solid 1px #F7F7F7;
+    text-shadow: 0px 0px 2px #222;
+    background: url(../images/store.002.png) no-repeat #FDFDFD;
+    background-position:bottom;
+    -moz-border-radius: 30px 30px 0px 0px;
+ -webkit-border-radius: 30px 30px 0px 0px;  /* safari 3 */
+  -khtml-border-radius: 30px 30px 0px 0px;   /* Konqueror */
+    -webkit-transition: text-shadow 750ms ease;
+       -moz-transition: text-shadow 750ms ease;
+         -o-transition: text-shadow 750ms ease;
+            transition: text-shadow 750ms ease;
+}
+DIV#btn-store:hover {
+    cursor:pointer;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/store.002.png) no-repeat;
+    background-position:top;
+}
+UL#head-menu LI.curr DIV#btn-store {
+    color:gold;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/store.002.png) no-repeat #F7F7F7;
+    background-position:top;
+    -moz-border-radius:  30px 30px 0px 0px;
+  -webkit-border-radius: 30px 30px 0px 0px;  /* safari 3 */
+  -khtml-border-radius:  30px 30px 0px 0px;   /* Konqueror */
+}
+DIV#btn-cart {
+    float:left;
+    color:#F3F3F3;
+    width:247.5px;
+    height:88px;
+    border:solid 1px #F7F7F7;
+    text-shadow: 0px 0px 2px #222;
+    background: url(../images/cart.002.png) no-repeat #FDFDFD;
+    background-position:bottom;
+    -moz-border-radius: 30px 30px 0px 0px;
+ -webkit-border-radius: 30px 30px 0px 0px;  /* safari 3 */
+  -khtml-border-radius: 30px 30px 0px 0px;   /* Konqueror */
+    -webkit-transition: text-shadow 750ms ease;
+       -moz-transition: text-shadow 750ms ease;
+         -o-transition: text-shadow 750ms ease;
+            transition: text-shadow 750ms ease;
+}
+DIV#btn-cart:hover {
+    cursor:pointer;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/cart.002.png) no-repeat;
+    background-position:top;
+}
+UL#head-menu LI.curr DIV#btn-cart {
+    color:gold;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/cart.002.png) no-repeat #F7F7F7;
+    background-position:top;
+    -moz-border-radius:  30px 30px 0px 0px;
+  -webkit-border-radius: 30px 30px 0px 0px;  /* safari 3 */
+  -khtml-border-radius:  30px 30px 0px 0px;   /* Konqueror */
+}
+DIV#btn-contacts {
+    float:left;
+    color:#F3F3F3;
+    width:247.5px;
+    height:88px;
+    border:solid 1px #F7F7F7;
+    text-shadow: 0px 0px 2px #222;
+    background: url(../images/contacts.002.png) no-repeat #FDFDFD;
+    background-position:bottom;
+    -moz-border-radius: 30px 30px 0px 0px;
+ -webkit-border-radius: 30px 30px 0px 0px;  /* safari 3 */
+  -khtml-border-radius: 30px 30px 0px 0px;   /* Konqueror */
+    -webkit-transition: text-shadow 750ms ease;
+       -moz-transition: text-shadow 750ms ease;
+         -o-transition: text-shadow 750ms ease;
+            transition: text-shadow 750ms ease;
+}
+DIV#btn-contacts:hover {
+    cursor:pointer;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/contacts.002.png) no-repeat;
+    background-position:top;
+}
+UL#head-menu LI.curr DIV#btn-contacts {
+    color:gold;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/contacts.002.png) no-repeat #F7F7F7;
+    background-position:top;
+    -moz-border-radius:  30px 30px 0px 0px;
+  -webkit-border-radius: 30px 30px 0px 0px;  /* safari 3 */
+  -khtml-border-radius:  30px 30px 0px 0px;   /* Konqueror */
+}
+DIV#btn-help {
+    float:left;
+    color:#F3F3F3;
+    width:247.5px;
+    height:88px;
+    border:solid 1px #F7F7F7;
+    text-shadow: 0px 0px 2px #222;
+    background: url(../images/help.002.png) no-repeat #FDFDFD;
+    background-position:bottom;
+    -moz-border-radius: 30px 30px 0px 0px;
+ -webkit-border-radius: 30px 30px 0px 0px;  /* safari 3 */
+  -khtml-border-radius: 30px 30px 0px 0px;   /* Konqueror */
+    -webkit-transition: text-shadow 750ms ease;
+       -moz-transition: text-shadow 750ms ease;
+         -o-transition: text-shadow 750ms ease;
+            transition: text-shadow 750ms ease;
+}
+DIV#btn-help:hover {
+    cursor:pointer;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/help.002.png) no-repeat;
+    background-position:top;
+}
+UL#head-menu LI.curr DIV#btn-help {
+    color:gold;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/help.002.png) no-repeat #F7F7F7;
+    background-position:top;
+    -moz-border-radius:  30px 30px 0px 0px;
+  -webkit-border-radius: 30px 30px 0px 0px;  /* safari 3 */
+  -khtml-border-radius:  30px 30px 0px 0px;   /* Konqueror */
+}

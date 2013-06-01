@@ -1,0 +1,63 @@
+<table style="width:100%; background:crimson; color:white;">
+  <tr><td>
+	<tr><td colspan="2">{$err}></td></tr>
+  </td></tr>
+</table>
+<form action="?pg=addQuestion"  method="post">
+<input type="hidden" name="addPost" value="{$addPost}" />
+   <table style="width: 100%;">
+      <tr>
+        <td colspan='2'>
+            Subject Name <em>Like:PHP,MySQL,etc</em> :
+            <input type="text" name="subject_name" value="{$subject_name}>"/>
+        </td>
+      </tr>
+      <tr>
+        <td style='width:50%;text-align:left;'>
+            <strong>Question</strong><br />
+            <textarea cols='50' rows='6' id='question' name='question'>{$quiz_question}</textarea>
+        </td>
+        <td style='width:50%;text-align:left;'>
+            <strong>Question Code </strong><br />
+            <textarea cols='50' rows='6' id='question_code' name='question_code'>{$quiz_code}</textarea>
+        </td>
+      </tr>
+	  <tr>
+	  	<td style="vertical-align: top;">
+
+
+		<table>
+
+		<tr>
+        <td style='text-align:right;font-size:18pt;'>
+            Answer {$1} : &nbsp;
+        </td>
+        <td style='text-align:left;'>
+            <input type='text' name='ans{$1}' value="{$answer_1}" />
+            <input type='checkbox' name='chkans{$1}' <?if($data["var_".$i]) echo "checked";?> />
+        </td></tr>
+
+		</table>
+
+
+		</td>
+		<td style="vertical-align: top;">
+
+
+
+            URL <?=$i?> :
+            <input type="text" name="url[<?=$i?>]" value="<?=$data["url_".$i]?>"/>
+   			<br />
+
+
+
+             <strong style="float: left;font-size:18pt;">Description of right answer to this query :</strong><br />
+            <textarea type="text" name="quiz_desc" value="">{$quiz_answer}</textarea>
+		</td>
+	  </tr>
+
+      <tr>
+        <td colspan="2"><input type="submit" value="Add" /></td>
+      </tr>
+    </table>
+</form>

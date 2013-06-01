@@ -1,0 +1,138 @@
+DIV#btn-store {
+    float:left;
+    color:#F3F3F3;
+    width:247.5px;
+    height:28px;
+    margin:60px 0;
+    border:solid 1px #F7F7F7;
+    text-shadow: 0px 0px 2px #222;
+    -moz-border-radius: 30px 30px 0px 0px;
+ -webkit-border-radius: 30px 30px 0px 0px;  /* safari 3 */
+  -khtml-border-radius: 30px 30px 0px 0px;   /* Konqueror */
+    -webkit-transition: all 750ms ease;
+       -moz-transition: all 750ms ease;
+         -o-transition: all 750ms ease;
+            transition: all 750ms ease;
+}
+DIV#btn-store:hover {
+    cursor:pointer;
+    height:88px;
+    margin:0;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/store.001.png) no-repeat;
+    background-position:top;
+}
+UL#head-menu LI.curr DIV#btn-store {
+    color:gold;
+    height:88px;
+    margin:0;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/store.001.png) no-repeat #F7F7F7;
+    background-position:top;
+}
+
+
+DIV#btn-cart {
+    float:left;
+    color:#F3F3F3;
+    width:247.5px;
+    height:28px;
+    margin:60px 0;
+    border:solid 1px #F7F7F7;
+    text-shadow: 0px 0px 2px #222;
+    -moz-border-radius: 30px 30px 0px 0px;
+ -webkit-border-radius: 30px 30px 0px 0px;  /* safari 3 */
+  -khtml-border-radius: 30px 30px 0px 0px;   /* Konqueror */
+    -webkit-transition: all 750ms ease;
+       -moz-transition: all 750ms ease;
+         -o-transition: all 750ms ease;
+            transition: all 750ms ease;
+}
+DIV#btn-cart:hover {
+    cursor:pointer;
+    height:88px;
+    margin:0;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/cart.001.png) no-repeat;
+    background-position:top;
+}
+UL#head-menu LI.curr DIV#btn-cart {
+    color:gold;
+    height:88px;
+    margin:0;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/cart.001.png) no-repeat #F7F7F7;
+    background-position:top;
+}
+
+
+
+DIV#btn-contacts {
+    float:left;
+    color:#F3F3F3;
+    width:247.5px;
+    height:28px;
+    margin:60px 0;
+    border:solid 1px #F7F7F7;
+    text-shadow: 0px 0px 2px #222;
+    -moz-border-radius: 30px 30px 0px 0px;
+ -webkit-border-radius: 30px 30px 0px 0px;  /* safari 3 */
+  -khtml-border-radius: 30px 30px 0px 0px;   /* Konqueror */
+    -webkit-transition: all 750ms ease;
+       -moz-transition: all 750ms ease;
+         -o-transition: all 750ms ease;
+            transition: all 750ms ease;
+}
+DIV#btn-contacts:hover {
+    cursor:pointer;
+    height:88px;
+    margin:0;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/contacts.001.png) no-repeat;
+    background-position:top;
+}
+UL#head-menu LI.curr DIV#btn-contacts {
+    color:gold;
+    height:88px;
+    margin:0;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/contacts.001.png) no-repeat #F7F7F7;
+    background-position:top;
+}
+
+
+
+DIV#btn-help {
+    float:left;
+    color:#F3F3F3;
+    width:247.5px;
+    height:28px;
+    margin:60px 0;
+    border:solid 1px #F7F7F7;
+    text-shadow: 0px 0px 2px #222;
+    -moz-border-radius: 30px 30px 0px 0px;
+ -webkit-border-radius: 30px 30px 0px 0px;  /* safari 3 */
+  -khtml-border-radius: 30px 30px 0px 0px;   /* Konqueror */
+    -webkit-transition: all 750ms ease;
+       -moz-transition: all 750ms ease;
+         -o-transition: all 750ms ease;
+            transition: all 750ms ease;
+}
+DIV#btn-help:hover {
+    cursor:pointer;
+    height:88px;
+    margin:0;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/help.001.png) no-repeat;
+    background-position:top;
+}
+UL#head-menu LI.curr DIV#btn-help {
+    color:gold;
+    height:88px;
+    margin:0;
+    text-shadow: 2px 2px 12px #222;
+    background: url(../images/help.001.png) no-repeat #F7F7F7;
+    background-position:top;
+}
+
+

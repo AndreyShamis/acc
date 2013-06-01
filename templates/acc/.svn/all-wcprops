@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/18/trunk/templates/acc
+END
+AddQuestion.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/18/trunk/templates/acc/AddQuestion.html
+END
+MainPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/18/trunk/templates/acc/MainPage.html
+END
+ListQuestion.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/18/trunk/templates/acc/ListQuestion.php
+END
+ListQuestionAnswer.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/18/trunk/templates/acc/ListQuestionAnswer.php
+END
+ListQuestionFull.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/18/trunk/templates/acc/ListQuestionFull.php
+END
+ListQuestionUrl.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/18/trunk/templates/acc/ListQuestionUrl.php
+END
+ListQuestions.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/18/trunk/templates/acc/ListQuestions.php
+END

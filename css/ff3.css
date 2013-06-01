@@ -1,0 +1,69 @@
+DIV.panel {
+    float:left;
+    width:982px;
+    background:#F7F7F7;
+    padding-top:2px;
+    padding-left:16px;
+}
+    DIV.frmin {
+        float:left;
+        width:195px;
+        height:200px;
+    }
+    DIV.in-frmin {
+        float:left;
+        width:185px;
+        height:186px;
+        -moz-border-radius:  70px 70px 8px 8px;
+      -webkit-border-radius: 70px 70px 8px 8px;  /* safari 3 */
+      -khtml-border-radius:  70px 70px 8px 8px;  /* Konqueror */
+        background: #E9E9E9; /* old browsers */
+        background: -moz-linear-gradient(bottom, #F7F7F7 0%, #EFEFEF 50%, #ECECEC 100%, #E9E9E9 100%); /* firefox */
+        background: -webkit-gradient(linear, left bottom, left top, color-stop(0%,#FAFAFA), color-stop(50%,#EFEFEF), color-stop(100%,#ECECEC), color-stop(100%,#E9E9E9)); /* webkit */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E9E9E9', endColorstr='#FAFAFA',GradientType=0 ); /* ie */
+    }
+    DIV.in-frmin:hover {
+        width:195px;
+        height:196px;
+        margin-top:-5px;
+        margin-left:-5px;
+        background: #FAFAFA; /* old browsers */
+        background: -moz-linear-gradient(top, #F7F7F7 0%, #EFEFEF 50%, #ECECEC 100%, #F6F6F6 100%); /* firefox */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FAFAFA), color-stop(50%,#EFEFEF), color-stop(100%,#ECECEC), color-stop(100%,#F6F6F6)); /* webkit */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FAFAFA', endColorstr='#E9E9E9',GradientType=0 ); /* ie */
+    -webkit-transition: all 0.4s ease;
+       -moz-transition: all 0.4s ease;
+         -o-transition: all 0.4s ease;
+            transition: all 0.4s ease;
+    }
+    DIV.frm2in {
+        float:left;
+        width:195px;
+        height:150px;
+    }
+    DIV.in-frm2in {
+        float:left;
+        width:185px;
+        height:136px;
+        -moz-border-radius:  20px 20px 20px 20px;
+      -webkit-border-radius: 20px 20px 20px 20px;  /* safari 3 */
+      -khtml-border-radius:  20px 20px 20px 20px;  /* Konqueror */
+        background: #E9E9E9; /* old browsers */
+        background: -moz-linear-gradient(bottom, #F7F7F7 0%, #EFEFEF 50%, #ECECEC 100%, #E9E9E9 100%); /* firefox */
+        background: -webkit-gradient(linear, left bottom, left top, color-stop(0%,#FAFAFA), color-stop(50%,#EFEFEF), color-stop(100%,#ECECEC), color-stop(100%,#E9E9E9)); /* webkit */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E9E9E9', endColorstr='#FAFAFA',GradientType=0 ); /* ie */
+    }
+    DIV.in-frm2in:hover {
+        width:195px;
+        height:146px;
+        margin-top:-5px;
+        margin-left:-5px;
+        background: #FAFAFA; /* old browsers */
+        background: -moz-linear-gradient(top, #F7F7F7 0%, #EFEFEF 50%, #ECECEC 100%, #F6F6F6 100%); /* firefox */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FAFAFA), color-stop(50%,#EFEFEF), color-stop(100%,#ECECEC), color-stop(100%,#F6F6F6)); /* webkit */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FAFAFA', endColorstr='#E9E9E9',GradientType=0 ); /* ie */
+    -webkit-transition: all 0.4s ease;
+       -moz-transition: all 0.4s ease;
+         -o-transition: all 0.4s ease;
+            transition: all 0.4s ease;
+    }

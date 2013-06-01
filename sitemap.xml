@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.acc.infoamper.com/index.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/index.php?pg=question-list</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=addQuestion</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/showQuestion.php?id=1</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=Build-Exam</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=subject-list</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=About-PHP-Certification</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/exam/list_all_exams.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/addQuestion.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/BuildExam.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=question-list&amp;subject=7&amp;subject_name=ACC</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=question-list&amp;subject=4&amp;subject_name=ASP</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=question-list&amp;subject=11&amp;subject_name=C</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=question-list&amp;subject=10&amp;subject_name=C%2B%2B</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=question-list&amp;subject=9&amp;subject_name=HTML</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=question-list&amp;subject=3&amp;subject_name=MySQL</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=question-list&amp;subject=2&amp;subject_name=PHP</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=question-list&amp;subject=5&amp;subject_name=Ruby</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=question-list&amp;subject=6&amp;subject_name=SQL</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=question-list&amp;subject=8&amp;subject_name=XML</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/?pg=question-list&amp;subject=1&amp;subject_name=asadasd</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/exam/question.php?exam_id=tbl__exam__8f56297a9e72d357c4b20feebc6d982522812</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/exam/question.php?exam_id=tbl__exam__51179be2310ae42d28eefa924ef9778145039</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/exam/question.php?exam_id=tbl__exam__6e28c88209b737d65a6f6c5d9fd03cb935500</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/exam/delete_exam.php?ex=10000061</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/exam/question.php?exam_id=tbl__exam__933c23b740715ca839ee8de2ec9f15808030</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/exam/question.php?exam_id=tbl__exam__907582834f57dc5d134cedd0090382d07634</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/exam/question.php?exam_id=tbl__exam__036fd8de21df94b3b8f09c22368db07217545</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/exam/question.php?exam_id=tbl__exam__4be95889a7dfaded1220dfeea6b2ec5935580</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/exam/question.php?exam_id=tbl__exam__42eaf29c0c1520a1de1fa05b8a0518321857</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/exam/question.php?exam_id=tbl__exam__100e0208f3f55f4ffac6ab8d55337a3f4707</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/exam/question.php?exam_id=tbl__exam__27780d99c436a18403d74c6df4f9d01f43606</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.acc.infoamper.com/exam/question.php?exam_id=tbl__exam__17e6c1c53ef2e69576f4c9a61be7e47e30812</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>

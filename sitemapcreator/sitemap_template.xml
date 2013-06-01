@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://www.wp.infoamper.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.2.1" --> 
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.4" --> 
+<!-- generated-on="17.07.2011 12:59" --> 
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url> 
+		<loc>http://www.wp.infoamper.com/</loc> 
+		<lastmod>2011-07-17T12:58:37+00:00</lastmod> 
+		<changefreq>daily</changefreq> 
+		<priority>1.0</priority> 
+	</url> 
+	<url> 
+		<loc>http://www.wp.infoamper.com/?cat=32</loc> 
+		<changefreq>weekly</changefreq> 
+		<priority>0.3</priority> 
+	</url> 
+	 
+</urlset>
